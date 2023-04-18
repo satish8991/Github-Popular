@@ -1,0 +1,21 @@
+.filter-list {
+  height: 45px;
+}
+.button {
+  width: 90px;
+  height: 30px;
+  color: #0f172a;
+  background-color: transparent;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+}
+.selected-button {
+  width: 90px;
+  height: 30px;
+  color: #0284c7;
+  background-color: transparent;
+  font-weight: bold;
+  border: 1px solid #0284c7;
+  border-radius: 20px;
+}
